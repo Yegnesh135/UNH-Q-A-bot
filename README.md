@@ -1,4 +1,4 @@
-## UNH_QNA_Bot
+## UniAssist: A RAG powered QNA Bot for UNH
 ## DSCI-6004-03-NLP-Project
 ## NLP Final Group Project on UNH_QNA bot using Google PaLM
 
